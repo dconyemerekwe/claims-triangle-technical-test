@@ -1,3 +1,4 @@
+# Claims Triangle Solution - Technical Test
 import csv
 
 triangles = {}
